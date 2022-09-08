@@ -1,10 +1,4 @@
----
-license: mit
----
-
-
-[![Darknet Continuous Integration](https://github.com/AlexeyAB/darknet/workflows/Darknet%20Continuous%20Integration/badge.svg)](https://github.com/AlexeyAB/darknet/actions?query=workflow%3A%22Darknet+Continuous+Integration%22)
-[![Hugging Face Card](https://img.shields.io/badge/huggingface-pass-yellow?style=plastic&logo=appveyor)](https://huggingface.co/hashb/darknet-yolov4-object-detection)
+[![Darknet Continuous Integration](https://github.com/AlexeyAB/darknet/workflows/Darknet%20Continuous%20Integration/badge.svg)](https://github.com/AlexeyAB/darknet/actions?query=workflow%3A%22Darknet+Continuous+Integration%22) [![Hugging Face Card](https://img.shields.io/badge/huggingface-pass-yellow?style=plastic&logo=appveyor)](https://huggingface.co/hashb/darknet-yolov4-object-detection)
 
 ## Model
 
